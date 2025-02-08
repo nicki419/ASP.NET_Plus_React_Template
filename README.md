@@ -25,4 +25,4 @@ This took 9 hours to make...
 3. Build the backend `dotnet build API/API.csproj`
 4. Run the frontend  `cd frontend && npm run devapi`
 5. Run the compound Rider Profile and pray that it works.
-6. See [Detailled Instructions](Detailed%20How-To/HowTo.md) for more info
+6. See [Detailled Instructions](Detailed%20How-To/HowTo.md) for more info and in case of errors with previous steps.
